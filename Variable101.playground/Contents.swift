@@ -1,5 +1,6 @@
 import UIKit
 
-var str = "Hello, playground"
-
+var firstName = "Piyawut"
+firstName = "Peach"
+let pi = 3.14
 
